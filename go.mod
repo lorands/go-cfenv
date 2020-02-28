@@ -1,4 +1,4 @@
-module github.com/cloudfoundry-community/go-cfenv
+module github.com/lorands/go-cfenv
 
 go 1.11
 
